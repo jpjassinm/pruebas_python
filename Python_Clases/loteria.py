@@ -12,6 +12,7 @@ def numero_loteria():
         resultado = (i, "El numero de la suerte es ", numero, " con el serial ", serial)
 
         print(str(resultado))
+        print("Todo esta bien")
 
 
 
